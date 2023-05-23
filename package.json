@@ -1,0 +1,25 @@
+{
+  "name": "leadcard-react-native",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "csbbust": "1.0.1",
+    "react": "18.2.*",
+    "react-dom": "18.2.*",
+    "react-native": "0.71.8",
+    "react-native-elements": "3.4.3",
+    "react-native-safe-area-context": "4.5.3",
+    "react-native-vector-icons": "9.2.0",
+    "react-native-web": "0.19.*",
+    "react-scripts": "3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
